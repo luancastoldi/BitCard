@@ -1,9 +1,7 @@
 # Bitcoin and Random Card
 Little games created with React Native
 
-This project contained a little part in english, because i'm training this practice.
-Ok, this project have two little games, lets see the first.
-
+This project contains a small part in English, because I am training this. Ok, this project has two games, let's see the first one.
 
 #Bitcoin Click (vou escrever em portugues mesmo kk) =>
 Clicando no botão você recebe +1 "Bitcoin", existe a opção de salvar seus Bitcoins, onde foi utilizado o AssyncStorage. Só é possivel salvar quando os numeros de cliques forem maiores que a ultima save de Bitcoins. 
