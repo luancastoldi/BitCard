@@ -1,4 +1,4 @@
-# little_games
+# Bitcoin and Random Card
 Little games created with React Native
 
 This project contained a little part in english, because i'm training this practice.
